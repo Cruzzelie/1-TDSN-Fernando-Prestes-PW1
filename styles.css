@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding : 0;
+}
+
+h2{
+    color: red;
+}
+
+h3{
+    color:burlywood;
+}
+
+li{
+
+}
+
+div{
+    display: inline-grid;
+    padding: 10px;
+    margin:'' 80px;
+}
